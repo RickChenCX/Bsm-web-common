@@ -22,5 +22,8 @@
   },
   "dependencies": {
     "react-intl": "5.10.4"
+  },
+  "publishConfig": {
+    "@RickChenCX/BSM-super-apps:registry": "https://npm.pkg.github.com"
   }
 }
