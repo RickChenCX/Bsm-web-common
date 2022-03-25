@@ -26,5 +26,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:RickChenCX/Bsm-web-common.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
   }
 }
