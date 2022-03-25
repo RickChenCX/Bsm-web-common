@@ -1,5 +1,5 @@
 {
-  "name": "@RickChenCX/BSM-super-apps",
+  "name": "webCommon",
   "private": true,
   "version": "0.0.0",
   "workspaces": [
@@ -23,7 +23,8 @@
   "dependencies": {
     "react-intl": "5.10.4"
   },
-  "publishConfig": {
-    "@RickChenCX/BSM-super-apps:registry": "https://npm.pkg.github.com"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RickChenCX/Bsm-web-common.git"
   }
 }
