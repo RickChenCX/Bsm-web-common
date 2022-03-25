@@ -1,11 +1,11 @@
 {
-  "name": "bsm-components",
-  "version": "0.0.1",
+  "name": "bsm-api",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "rick_chen <787568061@qq.com>",
   "homepage": "https://github.com/RickChenCX/Bsm-web-common#readme",
   "license": "ISC",
-  "main": "lib/bsm-components.js",
+  "main": "lib/bsm-api.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
